@@ -153,21 +153,6 @@ password: admin123
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-* Home Page
-* Login Page
-* Registration Page
-* Flight Search
-* Booking Page
-* Admin Dashboard
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped in understanding:
