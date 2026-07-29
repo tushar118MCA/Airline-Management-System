@@ -155,24 +155,31 @@ password: admin123
 
 ## 📸 Screenshots
 
-* Home Page
-![image alt](
-
+*Home Page
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/home_page.png)
 
 * Login Page
-![image alt](
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/login_page.png)
   
 * Registration Page
-![image alt](
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/Registration.png)
   
 * Flight Search
-![image alt](
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/Flight_Search.png)
   
 * Flight Tickets
-![image alt](
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/Flight_Tickets.png)
   
 * Admin Dashboard
-![image alt](
+  
+![image alt](https://github.com/tushar118MCA/Airline-Management-System/blob/065393dad383779255eb276178b2182a4073d5aa/Admin_Dashboard.png)
+
+---
 
 ## 🎯 Learning Outcomes
 
