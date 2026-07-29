@@ -153,6 +153,27 @@ password: admin123
 
 ---
 
+## 📸 Screenshots
+
+* Home Page
+![image alt](
+
+
+* Login Page
+![image alt](
+  
+* Registration Page
+![image alt](
+  
+* Flight Search
+![image alt](
+  
+* Flight Tickets
+![image alt](
+  
+* Admin Dashboard
+![image alt](
+
 ## 🎯 Learning Outcomes
 
 This project helped in understanding:
